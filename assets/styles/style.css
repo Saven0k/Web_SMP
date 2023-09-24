@@ -1,0 +1,149 @@
+body {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.container {
+    margin: 0px 149px;
+}
+.header {
+    background-image: url("../images/bl_back.avif");
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 1000px;
+
+}
+.top_object {
+    color: black;
+    font-size: 35px;
+}
+
+.index-1 {
+    color: black;
+    font-size: 35px;
+    margin-right: 25px;
+}
+
+.catalog-2 {
+    color: black;
+    font-size: 35px;
+    margin-right: 25px;
+}
+
+.contacts-3 {
+    color: black;
+    font-size: 35px;
+    margin-right: 25px;
+}
+.text-go {
+    color:black;
+    font-size: 25px;
+}
+.h1-index {
+    color:black;
+    font-size: 25px;
+}
+.p {
+    font-size: 20px;
+}
+.header-catalog {
+    background-image: url("../images/purple_back.avif");
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 1000px;
+}
+
+.index-catalog {
+    color: white;
+    font-size: 35px;
+    margin-right: 25px;
+}
+
+.catalog-catalog {
+    color:white;
+    font-size: 35px;
+    margin-right: 25px;
+}
+
+.contacts-catalog {
+    color:white;
+    font-size: 35px;
+    margin-right: 25px;
+}
+.h1-catalog{
+    color:white;
+    font-size: 30px;
+}
+
+.p-catalog {
+    color:white;
+    font-size: 20px;
+}
+
+.bottom-objects {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.fish {
+
+    color: black;
+    display: grid;
+    padding: 80;
+    background-color: white;
+}
+
+.papaia {
+
+    color: black;
+    display: grid;
+    padding: 80;
+    background-color: white;
+}
+
+.cupcake {
+    color: black;
+    background-color: white;
+    display: grid;
+    padding: 80;
+}
+
+.scr-fish {
+    height: 350px;
+}
+
+.scr-cupcake {
+    height: 350px;
+}
+
+.scr-papaia {
+    height: 350px;
+}
+
+
+.name-papaia {
+    font-size: 30px;
+}
+
+.d-papaia {
+    font-size: 25px;
+}
+
+.name-fish {
+    font-size: 30px;
+}
+
+.d-fish {
+    font-size: 25px;
+}
+
+.name-cupcake {
+    font-size: 30px;
+}
+
+.d-cupcake{
+    font-size: 25px;
+}
+
